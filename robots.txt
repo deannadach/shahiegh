@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iemohl.theinfusiongroup.com/sitemap.xml
